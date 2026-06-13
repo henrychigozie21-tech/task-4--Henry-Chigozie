@@ -1,6 +1,5 @@
 This week focused on extending Organicus, a mobile app for browsing and purchasing organic food products, by designing a complete checkout and payment experience. The goal was to ensure users can move smoothly from product selection to purchase completion in a simple, secure, and trustworthy flow.
 
-⸻
 
 Key Focus Areas
 
@@ -10,7 +9,6 @@ Key Focus Areas
 * Reinforcing user trust through confirmation and feedback states
 * Ensuring consistency with the Organicus brand (colors, typography, spacing)
 
-⸻
 
 Screens Designed
 
@@ -28,7 +26,6 @@ Features include:
 
 The layout was designed to help users quickly review their order without feeling overwhelmed. Spacing and hierarchy were used to clearly separate key information.
 
-⸻
 
 2. Add Payment Page
 
@@ -43,7 +40,6 @@ Features include:
 
 Special attention was given to spacing, alignment, and form structure to make the process feel secure and effortless.
 
-⸻
 
 3. Order Confirmation Screen
 
@@ -58,7 +54,6 @@ Features include:
 
 This screen reinforces trust and gives users a clear sense of completion, which is essential in any purchase flow.
 
-⸻
 
 Design Approach
 
@@ -74,13 +69,11 @@ Consistency with previous Organicus screens was maintained through:
 
 The goal was to ensure the checkout experience felt like a natural continuation of the app, not a separate or disconnected flow.
 
-⸻
 
 Tools Used
 
 * Figma
 
-⸻
 
 Outcome
 
